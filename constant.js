@@ -1,2 +1,2 @@
-exports.pluginName = 'less-theme';
-exports.webpackPluginName = 'less-theme-webpack-plugin';
+exports.pluginName = 'custom-less-theme';
+exports.webpackPluginName = 'webpack-custom-less-theme';

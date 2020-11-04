@@ -16,7 +16,7 @@ module.exports = (api) => {
   });
   api.exitLog(`
     default themeVariables is ['@primary-color'], and varFile is ./src/assets/css/var.less;
-    \n more config see: https://github.com/xiangmaoshuo/less-theme-webpack-plugin`,
+    \n more config see: https://github.com/xiangmaoshuo/webpack-custom-less-theme`,
     'done'
   );
 }
