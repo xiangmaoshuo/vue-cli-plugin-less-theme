@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-less-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A vue-cli3 plug-in for webpack-custom-less-theme",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webpack-custom-less-theme": "^0.0.1"
+    "webpack-custom-less-theme": "^0.0.2"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xiangmaoshuo/vue-cli-plugin-less-theme.git"
   }
 }
